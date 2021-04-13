@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{29BCB578-EAC4-4DC6-8E7F-65D5AF9780D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubSync.Test", "SubSync.Test\SubSync.Test.csproj", "{B05EDB3E-3FAC-4A2A-9E38-B6203C4E5EB0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C418F843-5C80-42C0-BFD6-FF499E244C07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubSync", "SubSync\SubSync.csproj", "{71CCCFDE-8EF8-4004-843A-C5CAA8E830BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Subtitles", "Subtitles", "{66C1B185-AC39-4689-A306-0E266EF52C0C}"
+	ProjectSection(SolutionItems) = preProject
+		The.Matrix.1999.BluRay.720p.Malay - Assert.srt = The.Matrix.1999.BluRay.720p.Malay - Assert.srt
+		The.Matrix.1999.BluRay.720p.Malay - Copy.srt = The.Matrix.1999.BluRay.720p.Malay - Copy.srt
+		The.Matrix.1999.BluRay.720p.Malay.srt = The.Matrix.1999.BluRay.720p.Malay.srt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B05EDB3E-3FAC-4A2A-9E38-B6203C4E5EB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05EDB3E-3FAC-4A2A-9E38-B6203C4E5EB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05EDB3E-3FAC-4A2A-9E38-B6203C4E5EB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05EDB3E-3FAC-4A2A-9E38-B6203C4E5EB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71CCCFDE-8EF8-4004-843A-C5CAA8E830BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71CCCFDE-8EF8-4004-843A-C5CAA8E830BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71CCCFDE-8EF8-4004-843A-C5CAA8E830BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71CCCFDE-8EF8-4004-843A-C5CAA8E830BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22C1E493-CADE-4417-88CF-0B79791CCD7E}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B05EDB3E-3FAC-4A2A-9E38-B6203C4E5EB0} = {29BCB578-EAC4-4DC6-8E7F-65D5AF9780D7}
+		{71CCCFDE-8EF8-4004-843A-C5CAA8E830BA} = {C418F843-5C80-42C0-BFD6-FF499E244C07}
+		{66C1B185-AC39-4689-A306-0E266EF52C0C} = {29BCB578-EAC4-4DC6-8E7F-65D5AF9780D7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+/Users/gabrielebizzon/Projects/SubSync/SubSync/bin/Debug/netstandard2.1/SubSync.deps.json
+/Users/gabrielebizzon/Projects/SubSync/SubSync/bin/Debug/netstandard2.1/SubSync.dll
+/Users/gabrielebizzon/Projects/SubSync/SubSync/bin/Debug/netstandard2.1/SubSync.pdb
+/Users/gabrielebizzon/Projects/SubSync/SubSync/obj/Debug/netstandard2.1/SubSync.AssemblyInfoInputs.cache
+/Users/gabrielebizzon/Projects/SubSync/SubSync/obj/Debug/netstandard2.1/SubSync.AssemblyInfo.cs
+/Users/gabrielebizzon/Projects/SubSync/SubSync/obj/Debug/netstandard2.1/SubSync.csproj.CoreCompileInputs.cache
+/Users/gabrielebizzon/Projects/SubSync/SubSync/obj/Debug/netstandard2.1/SubSync.dll
+/Users/gabrielebizzon/Projects/SubSync/SubSync/obj/Debug/netstandard2.1/SubSync.pdb
+/Users/gabrielebizzon/Documents/projects/SubSync/SubSync/bin/Debug/netstandard2.1/SubSync.deps.json
+/Users/gabrielebizzon/Documents/projects/SubSync/SubSync/bin/Debug/netstandard2.1/SubSync.dll
+/Users/gabrielebizzon/Documents/projects/SubSync/SubSync/bin/Debug/netstandard2.1/SubSync.pdb
+/Users/gabrielebizzon/Documents/projects/SubSync/SubSync/obj/Debug/netstandard2.1/SubSync.csprojAssemblyReference.cache
+/Users/gabrielebizzon/Documents/projects/SubSync/SubSync/obj/Debug/netstandard2.1/SubSync.AssemblyInfoInputs.cache
+/Users/gabrielebizzon/Documents/projects/SubSync/SubSync/obj/Debug/netstandard2.1/SubSync.AssemblyInfo.cs
+/Users/gabrielebizzon/Documents/projects/SubSync/SubSync/obj/Debug/netstandard2.1/SubSync.csproj.CoreCompileInputs.cache
+/Users/gabrielebizzon/Documents/projects/SubSync/SubSync/obj/Debug/netstandard2.1/SubSync.dll
+/Users/gabrielebizzon/Documents/projects/SubSync/SubSync/obj/Debug/netstandard2.1/SubSync.pdb
